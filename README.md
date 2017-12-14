@@ -2,7 +2,7 @@
 
 "Because It's The Cup"
 
-Using machine learning to predict the outcome of NHL playoff games.
+Using machine learning to predict the outcome of NHL playoff games and then create an optimal betting strategy for 1 day of games.
 
 ## Files
 
